@@ -213,7 +213,7 @@ ul {
     top: -5px;
 }
 .head .icons img {
-    width: 32px;
+    width: 32px !important;
     height: 32px;
     margin-left: 15px;
 }
